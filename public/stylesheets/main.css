@@ -1,0 +1,36 @@
+.thumbnail img {
+	width: 100%;
+}
+
+.thumbnail{
+	padding: 0;
+}
+
+.thumbnail .caption-full {
+	padding: 9px;
+}
+
+#delete-form{
+	display: inline;
+}
+
+.panel-title{
+	color: #777;
+}
+
+.panel-info>.panel-heading{
+	background-color: #e7e7e7;
+	border-right: 1px solid #e7e7e7;
+	border-color: #e7e7e7;
+	width: 100%;
+	outline: none;
+}
+
+.panel-info{
+	border-color: #e7e7e7;
+	padding: 0;
+}
+
+.end{
+	  bottom: 10px;
+}
